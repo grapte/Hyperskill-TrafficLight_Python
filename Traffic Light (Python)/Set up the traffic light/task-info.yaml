@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: traffic_light.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29124#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Oct 2024 07:42:17 UTC"
+record: 2
