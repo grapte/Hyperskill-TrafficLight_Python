@@ -1,5 +1,4 @@
 import enum
-import queue
 import threading
 import time
 from textwrap import dedent

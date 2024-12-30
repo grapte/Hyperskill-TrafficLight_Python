@@ -1,1 +1,20 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
 .idea
+
+# old stages
+/Traffic Light (Python)/*
+!/Traffic Light (Python)/task/
+/Traffic Light (Python)/task/*
+!/Traffic Light (Python)/task/traffic_light.py
